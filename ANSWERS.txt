@@ -1,0 +1,1 @@
+cd Desktopcd BCIT\ COMP\ 1800cd MovieStarter\ 4git initgit add index.htmlgit commit -m “first commit”git remote add origin https://github.com/alex-hien/A00954976gitlab.gitgit push -u origin
